@@ -1,3 +1,5 @@
+# username = admin
+# password = password
 from tkinter import * 
 from tkinter import messagebox
 import csv
